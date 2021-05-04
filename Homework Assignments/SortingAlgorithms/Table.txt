@@ -1,0 +1,69 @@
+﻿Mehta Nimtrakul
+I pledge my honor that I have abided by the Stevens Honor System.
+
+	
+	
+	Selection Sort
+Wall Clock Time (nanoseconds)
+	Names: 15723 
+	Dates: 13613
+Number of Swaps(avg):
+	Names:4
+	Dates: 5
+Complexity class:
+	O(n^2)
+	
+	
+	Insertion Sort
+Wall Clock Time (nanoseconds)
+	Names: 14493 
+	Dates: 13981
+Number of Swaps(avg):
+	Names:3
+	Dates: 6
+Complexity class:
+	O(n^2)
+	
+	
+	Bubble Sort
+Wall Clock Time (nanoseconds)
+	Names:16377
+	Dates: 12700
+Number of Swaps(avg):
+	Names:3	
+	Dates: 6
+Complexity class:
+	O(n^2)
+	
+	
+	Heap Sort 
+Wall Clock Time (nanoseconds)
+	Names:16413
+	Dates: 14928
+Number of Swaps(avg):
+	Names:3
+	Dates: 4
+Complexity class:
+	O(N log N)
+	
+	
+	Merge Sort
+Wall Clock Time (nanoseconds)
+	Names:35193
+	Dates: 43937
+Number of Swaps(avg):
+	Names:4
+	Dates: 7
+Complexity class:
+	O(N log N)
+	
+	
+	Quick Sort
+Wall Clock Time (nanoseconds)
+	Names: 30234
+	Dates: 25998
+Number of Swaps(avg):
+	Names: 4.84 (because of shuffle)
+	Dates: 6.95 (because of shuffle)
+Complexity class:
+	O(N log N)
